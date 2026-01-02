@@ -1,17 +1,13 @@
 <?php
 /**
- * Database Configuration
+ * Database Configuration - InfinityFree
  * GlowBeauty - Beauty Products Website
- *
- * FOR LOCALHOST: Use settings below
- * FOR INFINITYFREE: Use the DEPLOY folder
  */
 
-// LOCALHOST (XAMPP)
-$host = "localhost";
-$username = "root";
-$password = "";
-$database = "beauty_website";
+$host = "sql113.infinityfree.com";
+$username = "if0_40809836";
+$password = "Svkads123";
+$database = "if0_40809836_GlowBeauty";
 
 // Create connection
 $conn = mysqli_connect($host, $username, $password, $database);

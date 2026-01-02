@@ -42,7 +42,7 @@
                     <li><a href="index.php" <?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'class="active"' : ''; ?>>Home</a></li>
                     <li><a href="products.php" <?php echo basename($_SERVER['PHP_SELF']) == 'products.php' ? 'class="active"' : ''; ?>>Shop</a></li>
                     <li><a href="services.php" <?php echo basename($_SERVER['PHP_SELF']) == 'services.php' ? 'class="active"' : ''; ?>>Categories</a></li>
-                    <li><a href="appointment.php" <?php echo basename($_SERVER['PHP_SELF']) == 'appointment.php' ? 'class="active"' : ''; ?>>Order</a></li>
+                    <li><a href="cart.php" <?php echo basename($_SERVER['PHP_SELF']) == 'cart.php' ? 'class="active"' : ''; ?>><i class="fas fa-shopping-cart"></i> Cart</a></li>
                     <li><a href="contact.php" <?php echo basename($_SERVER['PHP_SELF']) == 'contact.php' ? 'class="active"' : ''; ?>>Contact</a></li>
                 </ul>
             </nav>

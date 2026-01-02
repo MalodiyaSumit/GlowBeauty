@@ -1,5 +1,11 @@
 <?php
+session_start();
 include 'config/database.php';
+
+// Initialize cart
+if (!isset($_SESSION['cart'])) {
+    $_SESSION['cart'] = array();
+}
 
 // Get product ID from URL
 $product_id = isset($_GET['id']) ? (int)$_GET['id'] : 0;
@@ -139,12 +145,12 @@ include 'includes/header.php';
                     </div>
 
                     <div class="product-detail-actions">
-                        <a href="appointment.php?product=<?php echo urlencode($product['name']); ?>" class="btn btn-primary btn-large">
-                            <i class="fas fa-shopping-bag"></i> Order Now
+                        <a href="cart.php?add=<?php echo $product['id']; ?>&qty=1" class="btn btn-primary btn-large" onclick="this.href='cart.php?add=<?php echo $product['id']; ?>&qty='+document.getElementById('quantity').value">
+                            <i class="fas fa-shopping-cart"></i> Add to Cart
                         </a>
-                        <button class="btn btn-outline btn-large wishlist-btn">
-                            <i class="far fa-heart"></i> Wishlist
-                        </button>
+                        <a href="cart.php" class="btn btn-outline btn-large">
+                            <i class="fas fa-shopping-bag"></i> View Cart
+                        </a>
                     </div>
 
                     <div class="product-detail-meta">

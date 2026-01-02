@@ -1,7 +1,0 @@
-# Beauty Website - .htaccess
-
-# Set default index file
-DirectoryIndex index.php index.html
-
-# Set default charset
-AddDefaultCharset UTF-8
