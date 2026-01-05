@@ -72,7 +72,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
                         <div class="contact-details">
                             <h4>Our Location</h4>
-                            <p>K.P Vidhyarthi Bhavan, C.G Road<br>Ahmedabad, Gujarat - 380006</p>
+                            <p>Umiya Campus, Near Bhagvat Vidyapith, S G Highway, Sola, Ahmedabad- 380060, Gujarat</p>
                         </div>
                     </div>
 
@@ -80,7 +80,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <div class="contact-icon"><i class="fas fa-phone"></i></div>
                         <div class="contact-details">
                             <h4>Phone Number</h4>
-                            <p>+91 96620 01112<br>+91 79906 09770</p>
+                            <p>+91 9725620168</p>
                         </div>
                     </div>
 
@@ -88,7 +88,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <div class="contact-icon"><i class="fas fa-envelope"></i></div>
                         <div class="contact-details">
                             <h4>Email Address</h4>
-                            <p>info@glowbeauty.com<br>orders@glowbeauty.com</p>
+                            <p>Malodiyadhruvi13@gmail.com</p>
                         </div>
                     </div>
 

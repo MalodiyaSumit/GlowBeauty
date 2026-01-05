@@ -1,7 +1,7 @@
 <?php
 /**
  * Database Configuration
- * GlowBeauty - Beauty Products Website
+ * Beautybar - Beauty Products Website
  *
  * FOR LOCALHOST: Use settings below
  * FOR INFINITYFREE: Use the DEPLOY folder
