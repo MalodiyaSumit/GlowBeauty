@@ -1,7 +1,7 @@
 <?php
 /**
  * Database Configuration - InfinityFree
- * GlowBeauty - Beauty Products Website
+ * Beautybar - Beauty Products Website
  */
 
 $host = "sql113.infinityfree.com";

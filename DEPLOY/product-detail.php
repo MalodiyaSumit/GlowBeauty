@@ -194,7 +194,7 @@ include 'includes/header.php';
             <div class="tab-content" id="description">
                 <h3>Product Description</h3>
                 <p><?php echo htmlspecialchars($product['description']); ?></p>
-                <p>This premium <?php echo strtolower($product['category']); ?> product from GlowBeauty is carefully formulated to deliver exceptional results. Made with high-quality ingredients, it's perfect for daily use and suitable for all skin types.</p>
+                <p>This premium <?php echo strtolower($product['category']); ?> product from Beautybar is carefully formulated to deliver exceptional results. Made with high-quality ingredients, it's perfect for daily use and suitable for all skin types.</p>
                 <ul>
                     <li>Premium quality formulation</li>
                     <li>Long-lasting results</li>

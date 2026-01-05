@@ -77,7 +77,7 @@ $result = mysqli_query($conn, $sql);
         <div class="container">
             <div class="section-header">
                 <span class="section-badge">Why Shop With Us</span>
-                <h2>The GlowBeauty Promise</h2>
+                <h2>The Beautybar Promise</h2>
             </div>
             <div class="features-grid">
                 <div class="feature-card">

@@ -160,7 +160,7 @@ $featuredResult = mysqli_query($conn, $featuredSql);
             <div class="about-content">
                 <div class="about-image">
                     <div class="about-image-main">
-                        <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=600&fit=crop" alt="About GlowBeauty">
+                        <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=600&fit=crop" alt="About Beautybar">
                     </div>
                     <div class="about-image-float">
                         <h3>5+</h3>
@@ -170,7 +170,7 @@ $featuredResult = mysqli_query($conn, $featuredSql);
                 <div class="about-text">
                     <span class="section-badge">About Us</span>
                     <h2>Your Trusted Beauty Partner</h2>
-                    <p>At GlowBeauty, we believe everyone deserves access to premium beauty products. We carefully curate our collection from trusted brands to bring you the best in skincare, makeup, and beauty essentials.</p>
+                    <p>At Beautybar, we believe everyone deserves access to premium beauty products. We carefully curate our collection from trusted brands to bring you the best in skincare, makeup, and beauty essentials.</p>
                     <div class="about-features">
                         <div class="about-feature">
                             <span><i class="fas fa-check"></i></span>

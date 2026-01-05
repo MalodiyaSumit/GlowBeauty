@@ -2,7 +2,7 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section footer-about">
-                    <h4>GlowBeauty</h4>
+                    <h4>Beautybar</h4>
                     <p>Your trusted destination for premium beauty products. We bring you authentic skincare, makeup, and beauty essentials from top brands.</p>
                     <div class="social-links">
                         <a href="#" class="social-link" title="Facebook"><i class="fab fa-facebook-f"></i></a>
@@ -33,14 +33,14 @@
                 </div>
                 <div class="footer-section footer-contact">
                     <h4>Contact Info</h4>
-                    <p><i class="fas fa-map-marker-alt"></i> K.P Vidhyarthi Bhavan, C.G Road, Ahmedabad, Gujarat - 380006</p>
-                    <p><i class="fas fa-phone"></i> +91 96620 01112</p>
-                    <p><i class="fas fa-envelope"></i> info@glowbeauty.com</p>
+                    <p><i class="fas fa-map-marker-alt"></i> Umiya Campus, Near Bhagvat Vidyapith, S G Highway, Sola, Ahmedabad- 380060, Gujarat</p>
+                    <p><i class="fas fa-phone"></i> +91 9725620168</p>
+                    <p><i class="fas fa-envelope"></i> Malodiyadhruvi13@gmail.com</p>
                     <p><i class="fas fa-clock"></i> Mon-Sat: 10AM - 8PM</p>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>© <?php echo date('Y'); ?> GlowBeauty. All rights reserved. | College Project</p>
+                <p>© <?php echo date('Y'); ?> Beautybar. All rights reserved. | College Project</p>
                 <div class="footer-payments">
                     💳 💵 🏦
                 </div>
